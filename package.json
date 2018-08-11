@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://andrey-o-sim.github.io/",
+  "homepage": "https://andrey-o-sim.github.io/RoboFriendsApp",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.2.0",
